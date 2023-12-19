@@ -1,7 +1,7 @@
 ![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
 <h1 align="center">Hi 👋, I'm PRIYABRATO SAHA</h1>
 <h3 align="center">A passionate frontend web-developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+<img align="right" alt="coding" width="400px" height="400px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampriyabrato04&label=Profile%20views&color=0e75b6&style=flat" alt="iampriyabrato04" /> </p>
 
 - 🌱 I’m currently learning **JavaScript and React.Js**
